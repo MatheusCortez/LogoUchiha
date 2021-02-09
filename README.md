@@ -7,4 +7,4 @@ Logo criado totalmente em CSS3 tendo como base a imagem proveniente do anime Nar
 
 
 
-
+![Imagem do projeto com o logo do clã Uchiha centralizado](https://github.com/MatheusCortez/LogoUchiha/blob/main/imgs/Uchiha.png)
